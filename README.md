@@ -1,5 +1,5 @@
 # Midtronics-Test-Parser
-A powershell based battery test parser for Franklin Grid's Celltron Ultra (Also refered to as a modtronics)
+A powershell based battery test parser for Franklin Grid's Celltron Ultra (Also refered to as a midtronics)
 
 Input CSV: The input file is expected to have the first line as the schema (headers), followed by rows containing battery test data.
 Separation by Strings: The script extracts the Site, Plant, and String from each row and groups the data accordingly.
